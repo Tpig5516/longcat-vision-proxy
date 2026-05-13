@@ -1,5 +1,5 @@
 # longcat-vision-proxy
-LongCat-Flash-Omni图片格式转openai标准图片格式
-该skill用于hermes进行图片识别时遇到longcat模型与hermes默认图片识别格式不符的问题
-使用时先运行python脚本启动转译服务，然后就能进行图片格式转换了
-推荐将LongCat-Flash-Omni模型做为辅助模型使用
+LongCat-Flash-Omni图片格式转openai标准图片格式  
+该skill用于hermes进行图片识别时遇到longcat模型与hermes默认图片识别格式不符的问题  
+使用时先运行python脚本启动转译服务，然后就能进行图片格式转换了  
+推荐将LongCat-Flash-Omni模型做为辅助模型使用  
